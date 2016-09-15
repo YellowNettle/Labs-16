@@ -2,12 +2,10 @@ __author__ = 'student'
 import turtle
 
 turtle.shape('turtle')
-a = 10
-n = 1
-while n < 50:
+a = 1
+while a < 100:
     turtle.forward(a)
-    turtle.right(90)
+    turtle.right(10)
     turtle.forward(a)
-    turtle.right(90)
-    a += 10
-    n += 1
+    turtle.right(10)
+    a += 1
