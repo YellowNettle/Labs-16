@@ -1,9 +1,5 @@
 __author__ = 'student'
-n = int(input())
-a = 1
-while a < n:
-    if a % 2 == 0:
-        print(a, 'even')
-    else:
-        print(a, 'odd')
-    a += 1
+plt.hist
+3.5
+5.5
+7.5
